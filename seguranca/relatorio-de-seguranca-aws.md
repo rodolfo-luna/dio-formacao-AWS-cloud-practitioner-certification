@@ -1,6 +1,10 @@
 RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
 
-Data: 07/07/2023 Empresa: Abstergo Industries Responsável: Rodolfo Ferreira
+Data: 07/07/2023 
+
+Empresa: Abstergo Industries 
+
+Responsável: Rodolfo Ferreira
 
 Introdução
 
